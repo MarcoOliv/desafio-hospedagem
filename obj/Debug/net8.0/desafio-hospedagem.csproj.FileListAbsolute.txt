@@ -1,0 +1,14 @@
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.exe
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.deps.json
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.runtimeconfig.json
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.dll
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\bin\Debug\net8.0\desafio-hospedagem.pdb
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.AssemblyInfoInputs.cache
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.AssemblyInfo.cs
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.dll
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\refint\desafio-hospedagem.dll
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.pdb
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\desafio-hospedagem.genruntimeconfig.cache
+C:\Users\MARCO\Documents\FULLSTACK C#\desafio-hospedagem\obj\Debug\net8.0\ref\desafio-hospedagem.dll
